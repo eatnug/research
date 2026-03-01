@@ -1,6 +1,16 @@
 # agentic-coding
 
-How to make AI coding agents actually work. Experiment on [spets](https://github.com/eatnug/spets), document here.
+How to make AI coding agents actually work.
+
+Research lives here. Experiments run on [spets](https://github.com/eatnug/spets) (Structured Development Dialogue framework).
+
+## Why
+
+AI can write code. But "write code" isn't the hard part — the hard parts are:
+1. **Knowing what you don't know** — the agent needs to figure out what context it's missing before it starts coding
+2. **Trusting the output** — when AI generates 500 lines, how do you know it works beyond the happy path?
+
+No existing system solves both. The pieces exist separately (graph-based codebase understanding, property-based testing, dynamic workflow planning). This project explores combining them.
 
 ## Questions
 
