@@ -2,9 +2,11 @@
 
 Extract player stats from match footage using computer vision.
 
-## The Idea
+## Why
 
-FM/FIFA rate players with thousands of human reviewers. Can we get similar stats from video using CV?
+FM/FIFA rate players with thousands of human reviewers watching hundreds of hours of footage. The CV pipeline to automate most of this exists in pieces — detection, tracking, event spotting are largely solved. The unsolved part is stitching it together into a reliable end-to-end system that outputs meaningful per-player statistics.
+
+This project: survey the landscape, build a working pipeline, and see how close we can get to human-level player rating.
 
 ## What's Possible Now
 
