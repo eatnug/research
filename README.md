@@ -2,17 +2,7 @@
 
 Digging deep, figuring things out.
 
-Don't just use AI — understand it deeply enough to build and improve it.
-
-## Why
-
-Each project targets a different axis of the AI landscape:
-
-- **Foundational**: How do LLMs actually work, from matrices to attention?
-- **Applied frontier**: AI writes code now. How do we make it reliable?
-- **Different modality**: Can CV extract structured data from unstructured video?
-
-The goal isn't papers or products. It's building real understanding — the kind you can only get by doing.
+I like learning new things and making something with them. These are the things I'm curious about right now.
 
 ## Projects
 

@@ -10,7 +10,7 @@ Three independent research tracks, each exploring a different axis of AI/ML:
 - **agentic-coding** — Applied AI frontier. Make AI coding agents actually work. Experiments live in [spets](https://github.com/eatnug/spets).
 - **football-video-stats** — Computer vision. Extract player stats from match footage.
 
-The common thread: don't just use AI tools — understand them deeply enough to build and improve them.
+Things I'm curious about. Learn deep, build something, see what happens.
 
 ## Repo Structure
 
