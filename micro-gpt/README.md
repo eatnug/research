@@ -4,7 +4,7 @@ GPT from scratch. Not a tutorial follow-along — build it, break it, understand
 
 ## Why
 
-LLMs are the foundation of everything else in this repo (agentic-coding runs on them, multimodal is the next step). Can't push the frontier without understanding the internals: how attention decides what to focus on, why layer norm matters, what the loss landscape actually looks like.
+Everyone uses LLMs but few people actually know what's happening inside. I want to understand every layer — how attention decides what to focus on, why layer norm matters, what the loss landscape looks like. Build it, break it, see what happens.
 
 ## The Plan
 
