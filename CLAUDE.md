@@ -9,8 +9,7 @@ Three independent research tracks, each exploring a different axis of AI/ML:
 - **micro-gpt** — Foundational. Understand how LLMs work by building one from scratch.
 - **agentic-coding** — Applied AI frontier. Make AI coding agents actually work. Experiments live in [spets](https://github.com/eatnug/spets).
 - **football-video-stats** — Computer vision. Extract player stats from match footage.
-- **quant-trading** — Quantitative finance. Build and test systematic trading strategies.
-- **portfolio-management** — Portfolio optimization. Construction, risk management, rebalancing.
+- **ai-asset-management** — Can AI/code beat simple rules at managing personal assets?
 
 Things I'm curious about. Learn deep, build something, see what happens.
 
@@ -23,8 +22,7 @@ research/                          # main branch — repo overview
 research.worktree/agentic-coding/  # agentic-coding branch
 research.worktree/football-video-stats/  # football-video-stats branch
 research.worktree/micro-gpt/       # micro-gpt branch
-research.worktree/quant-trading/   # quant-trading branch
-research.worktree/portfolio-management/  # portfolio-management branch
+research.worktree/ai-asset-management/  # ai-asset-management branch
 ```
 
 Projects evolve independently. Each worktree is a self-contained workspace.
