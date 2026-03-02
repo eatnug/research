@@ -9,6 +9,8 @@ Three independent research tracks, each exploring a different axis of AI/ML:
 - **micro-gpt** — Foundational. Understand how LLMs work by building one from scratch.
 - **agentic-coding** — Applied AI frontier. Make AI coding agents actually work. Experiments live in [spets](https://github.com/eatnug/spets).
 - **football-video-stats** — Computer vision. Extract player stats from match footage.
+- **quant-trading** — Quantitative finance. Build and test systematic trading strategies.
+- **portfolio-management** — Portfolio optimization. Construction, risk management, rebalancing.
 
 Things I'm curious about. Learn deep, build something, see what happens.
 
@@ -21,6 +23,8 @@ research/                          # main branch — repo overview
 research.worktree/agentic-coding/  # agentic-coding branch
 research.worktree/football-video-stats/  # football-video-stats branch
 research.worktree/micro-gpt/       # micro-gpt branch
+research.worktree/quant-trading/   # quant-trading branch
+research.worktree/portfolio-management/  # portfolio-management branch
 ```
 
 Projects evolve independently. Each worktree is a self-contained workspace.
@@ -36,6 +40,22 @@ project-name/
 ├── experiments/    # Code, notebooks, results
 └── findings/       # Write-ups, conclusions
 ```
+
+## What Counts as Research
+
+Research = question + survey + experiment + finding. Not tutorials, not tool demos.
+
+A project must have:
+- **A real question** — "can X do Y?" or "why does Z fail?" Not "how to use X"
+- **A survey** — what exists, what's solved, what's not. Don't rediscover known things.
+- **A gap to explore** — the part nobody answered, or the part worth verifying yourself
+- **Experiments** — code that tests the question
+- **Findings** — documented outcome, including negative results
+
+When helping with a project, always check:
+1. Is the question defined? If not, help define it before writing code.
+2. Is there a survey? If not, suggest doing one before jumping to experiments.
+3. Are findings documented? Nudge toward writing things down.
 
 ## Workflow
 

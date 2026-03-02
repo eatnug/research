@@ -1,8 +1,6 @@
 # research
 
-Digging deep, figuring things out.
-
-I like learning new things and making something with them. These are the things I'm curious about right now.
+Things I'm curious about. Dig deep, build something, find out.
 
 ## Projects
 
@@ -11,6 +9,8 @@ I like learning new things and making something with them. These are the things 
 | [micro-gpt](./micro-gpt) | GPT from scratch — understand the transformer inside out | upcoming |
 | [agentic-coding](./agentic-coding) | Making AI coding agents actually work — dynamic planning + verification | ongoing |
 | [football-video-stats](./football-video-stats) | Player stats from match footage via CV | upcoming |
+| [quant-trading](./quant-trading) | Systematic trading strategies — signals, backtesting, execution | upcoming |
+| [portfolio-management](./portfolio-management) | Portfolio construction, optimization, and risk management | upcoming |
 
 ## Structure
 
@@ -21,6 +21,16 @@ research/                          # main — this overview
 research.worktree/agentic-coding/  # experiments in AI coding agents
 research.worktree/football-video-stats/  # CV pipeline for football analytics
 research.worktree/micro-gpt/       # building GPT from scratch
+research.worktree/quant-trading/   # systematic trading strategies
+research.worktree/portfolio-management/  # portfolio optimization & risk
 ```
 
-Each project follows: **question → survey → gap → experiments → findings**.
+## What Counts as Research
+
+Not tutorials. Not tool demos. Have a question, know what's been done, then go find out.
+
+1. **Question** — "can X do Y?" not "how to use X"
+2. **Survey** — what exists, what's solved, what's not
+3. **Gap** — the part worth verifying yourself
+4. **Experiment** — build it, measure it, break it
+5. **Finding** — what you learned. Negative results count.
