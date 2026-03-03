@@ -4,7 +4,7 @@ Personal research hub. Go deep, build understanding, document findings.
 
 ## What This Repo Is
 
-Three independent research tracks, each exploring a different axis of AI/ML:
+Four independent research tracks, each exploring a different axis of AI/ML:
 
 - **micro-gpt** — Foundational. Understand how LLMs work by building one from scratch.
 - **agentic-coding** — Applied AI frontier. Make AI coding agents actually work. Experiments live in [spets](https://github.com/eatnug/spets).
@@ -62,6 +62,14 @@ When helping with a project, always check:
 3. Identify the gap
 4. Run experiments
 5. Document findings
+
+## Adding a New Project
+
+All on main, in one commit:
+1. Create `project-name/README.md` with the question
+2. Create branch and worktree (`git branch`, `git worktree add`)
+3. Update `README.md` project table and structure diagram
+4. Update `CLAUDE.md` project list and worktree map
 
 ## Conventions
 
