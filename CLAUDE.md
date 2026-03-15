@@ -6,7 +6,7 @@ Personal research hub. Go deep, build understanding, document findings.
 
 Independent research tracks, each exploring a different axis of AI/ML:
 
-- **micro-gpt** — Foundational. Understand how LLMs work by building one from scratch.
+- **llm-from-scratch** — Foundational. LLM fundamentals to modern training techniques.
 - **text-to-sql** — Applied LLM. Natural language to SQL — eval pipelines, prompting strategies, fine-tuning.
 - **agentic-coding** — Applied AI frontier. Make AI coding agents actually work. Experiments live in [spets](https://github.com/eatnug/spets).
 - **football-video-stats** — Computer vision. Extract player stats from match footage.
@@ -20,7 +20,7 @@ Each project lives on its own branch with a dedicated git worktree:
 
 ```
 research/                          # main branch — repo overview
-research.worktree/micro-gpt/       # micro-gpt branch
+research.worktree/llm-from-scratch/ # llm-from-scratch branch
 research.worktree/text-to-sql/     # text-to-sql branch
 research.worktree/agentic-coding/  # agentic-coding branch
 research.worktree/football-video-stats/  # football-video-stats branch

@@ -6,7 +6,7 @@ Things I'm curious about. Dig deep, build something, find out.
 
 | Project | What | Status |
 |---------|------|--------|
-| [micro-gpt](./micro-gpt) | GPT from scratch — understand the transformer inside out | ongoing |
+| [llm-from-scratch](./llm-from-scratch) | LLM fundamentals to modern training techniques | ongoing |
 | [text-to-sql](./text-to-sql) | LLM-based natural language to SQL — eval, prompting, fine-tuning | upcoming |
 | [agentic-coding](./agentic-coding) | Making AI coding agents actually work — dynamic planning + verification | ongoing |
 | [football-video-stats](./football-video-stats) | Player stats from match footage via CV | upcoming |
@@ -18,7 +18,7 @@ Each project lives on its own branch with a dedicated worktree. They evolve inde
 
 ```
 research/                          # main — this overview
-research.worktree/micro-gpt/       # building GPT from scratch
+research.worktree/llm-from-scratch/ # LLM fundamentals to modern training techniques
 research.worktree/text-to-sql/     # NL-to-SQL evaluation and improvement
 research.worktree/agentic-coding/  # experiments in AI coding agents
 research.worktree/football-video-stats/  # CV pipeline for football analytics
